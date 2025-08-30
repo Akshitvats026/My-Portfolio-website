@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This site showcases my skills, projects, and experience as a developer passionate about **Web Development**, **Machine Learning**, and **Generative AI**.
 
 ## 🚀 Live Demo  
-🔗 [Visit My Portfolio](https://your-portfolio-link.netlify.app)  
+🔗 [Visit My Portfolio](https:akshitvats-portfolio.netlify.app)  
 > Replace the link above with your actual deployed website URL.
 
 ## 🛠️ Built With  
